@@ -12,7 +12,7 @@ def print_txtval():
 
 
 root = tk.Tk()
-root.geometry('250x280')
+root.geometry('350x280')
 lb = tk.Label(text='User ID')
 en = tk.Entry()
 
